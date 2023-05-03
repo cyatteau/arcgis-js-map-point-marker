@@ -6,6 +6,7 @@ This simple point marker can be added to any MapView of an ArcGIS Maps SDK for J
 
 ### Example Use in Application
 
+![arcgis-js-marker-example-pic](https://user-images.githubusercontent.com/112517097/235935955-11b5dc33-c073-4856-957e-aae105b184c4.PNG)
 
 ### Required Dependencies
 
