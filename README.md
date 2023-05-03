@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ## ArcGIS Maps SDK for JS - Marker
 
 ### Description
@@ -14,6 +12,11 @@ This simple point marker can be added to any MapView of an ArcGIS Maps SDK for J
 
 - `npm i @arcgis/core`
 - `npm i arcgis-js-sdk-draggable-marker`
+
+## Other Requirements
+
+- Sign up for an [ArcGIS Developer Account](https://developers.arcgis.com/sign-up/).
+- Get an API Key. Find video instructions [here](https://www.youtube.com/watch?v=StVncn6DLzc.).
 
 ### Resources
 
